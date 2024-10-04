@@ -21,12 +21,12 @@ React, HTML, CSS...
 ![App Screenshot](Readme/login.png)
 
 
-![App Screenshot](Readme/customer)
+![App Screenshot](Readme/customer.png)
 
 
-![App Screenshot](Readme/order)
+![App Screenshot](Readme/order.png)
 
-![App Screenshot](Readme/bill)
+![App Screenshot](Readme/bill.png)
 
 ## Used By
 
